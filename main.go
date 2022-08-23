@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Println(woosah.Greet2())
+	fmt.Println(woosah.Greet3())
 }
